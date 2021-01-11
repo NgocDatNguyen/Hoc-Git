@@ -6,3 +6,4 @@ if (sanPham == "Ga") {
 } else if (sanPham == "Bo") {
     console.log("20$");
 }
+console.log("Đã Sửa");
