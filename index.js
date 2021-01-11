@@ -7,3 +7,4 @@ if (sanPham == "Ga") {
     console.log("20$");
 }
 console.log("Đã Sửa");
+console.log("Hehe");
